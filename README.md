@@ -4,7 +4,7 @@ Application runs a simple representation of a modern coffee machine.
 Hyperskill project "Coffee machine simulator" (Introduction to Java). Stage 6/6.
 
 The application represents a coffee machine that can make 3 types of coffee. Each type requires a different 
-amounts of ingredients to be made:
+amounts of ingredients, to be made:
 
 Espresso: 250 ml water, 16 g coffee beans; price -> 4$.
 
