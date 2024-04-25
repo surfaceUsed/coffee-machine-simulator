@@ -1,5 +1,5 @@
 # coffee-machine-simulator
-Application runs simple representation of a modern coffee machine.
+Application runs a simple representation of a modern coffee machine.
 
 Hyperskill project "Coffee machine simulator" (Introduction to Java). Stage 6/6.
 
